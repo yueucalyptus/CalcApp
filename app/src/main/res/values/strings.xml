@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Intent</string>
+    <string name="button1">足します!</string>
+    <string name="button2">引きます</string>
+    <string name="button3">掛けます</string>
+    <string name="button4">割ります</string>
+    <string name="hint">editText1</string>
 </resources>
